@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/CunstomProject.iml" filepath="$PROJECT_DIR$/CunstomProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/piechart/CunstomProject-piechart.iml" filepath="$PROJECT_DIR$/.idea/modules/piechart/CunstomProject-piechart.iml" group="CunstomProject/piechart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradledemo01-CunstomProject.iml" filepath="$PROJECT_DIR$/.idea/modules/gradledemo01-CunstomProject.iml" group="CunstomProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lilei-CunstomProject.iml" filepath="$PROJECT_DIR$/.idea/modules/lilei-CunstomProject.iml" group="CunstomProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/piechart/lilei-CunstomProject-piechart.iml" filepath="$PROJECT_DIR$/.idea/modules/piechart/lilei-CunstomProject-piechart.iml" group="CunstomProject/piechart" />
       <module fileurl="file://$PROJECT_DIR$/piechart/piechart.iml" filepath="$PROJECT_DIR$/piechart/piechart.iml" />
     </modules>
   </component>
