@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         float[] data = {50f,30f,20f,60f};
         pieChartView.setPecent(data);
     }
+
+    private void Test(){
+
+    }
 }
