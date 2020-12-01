@@ -18,4 +18,7 @@ public class MainActivity extends AppCompatActivity {
         pieChartView.setPecent(data);
     }
 
+    public void method1(){}
+
+
 }
